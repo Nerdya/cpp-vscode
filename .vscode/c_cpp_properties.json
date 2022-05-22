@@ -4,12 +4,12 @@
             "name": "Win32",
             "browse": {
                 "path": [
-                    "C:\\Users\\Dia-PC\\Documents\\Code\\UNETI\\CPPproject"
+                    "${workspaceFolder}"
                 ],
                 "limitSymbolsToIncludedHeaders": true
             },
             "includePath": [
-                "C:\\Users\\Dia-PC\\Documents\\Code\\UNETI\\CPPproject"
+                "${workspaceFolder}"
             ],
             "defines": [
                 "_DEBUG",

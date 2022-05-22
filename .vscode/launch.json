@@ -8,10 +8,10 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "C:\\Users\\Dia-PC\\Documents\\cpp-vscode\\myfile.exe",
+            "program": "${workspaceFolder}/myfile.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:\\Users\\Dia-PC\\Documents\\cpp-vscode",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": true
         },
